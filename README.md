@@ -23,7 +23,8 @@ Here are some screenshots of the tool in action:
 ## Installation
 
 To install the required libraries, run:
-
+git clone https://github.com/M0HV4R4/L-OSINT/
+cd L-OSINT
 ```bash
 pip install -r requirements.txt
 
