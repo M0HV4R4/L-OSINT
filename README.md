@@ -12,12 +12,13 @@ This project requires the following Python libraries:
 - `tqdm`
 - `googlesearch-python`
 - `colorama`
-## Screenshot
+
+## Screenshots
 
 Here are some screenshots of the tool in action:
 
-screenshot1.jpg
-screenshot2.jpg
+![Screenshot 1](screenshot1.jpg)
+![Screenshot 2](screenshot2.jpg)
 
 ## Installation
 
