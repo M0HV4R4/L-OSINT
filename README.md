@@ -16,8 +16,8 @@ This project requires the following Python libraries:
 
 Here are some screenshots of the tool in action:
 
-!(screenshot1.jpg)
-!(screenshot2.jpg)
+screenshot1.jpg
+screenshot2.jpg
 
 ## Installation
 
